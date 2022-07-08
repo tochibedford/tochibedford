@@ -1,4 +1,4 @@
-### Hi there 👋
+### Tochi here! 🧛🏽‍♀️ 🧚🏼
 
 <!--
 **tochibedford/tochibedford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+😤 I’m currently working on Simple tools with UI's for FL studio
+🌱 I’m currently learning JAVA & ThreeJS
+🍾 I also:
+  - Make & record music in FL Studio.
+  - Design Furniture.
+  - Study Mechanical engineering at Uni.
+
+## Contact Me
+🔗 - https://twitter.com/tochibedford
+🔗 - https://instagram.com/tochibedford
