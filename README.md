@@ -19,7 +19,7 @@ I'm an engineer interested in super fast algorithms for python & JavaScript. I h
 
 😤 I’m currently working on Simple Utility tools with UI's for FL studio
 
-🌱 I’m currently learning JAVA & ThreeJS
+🌱 I’m currently learning RUST & ThreeJS
 
 🐣 and I want to learn rust sometime in the future
 
