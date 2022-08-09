@@ -21,8 +21,6 @@ I'm an engineer interested in super fast algorithms for python & JavaScript. I h
 
 🌱 I’m currently learning RUST & ThreeJS
 
-🐣 and I want to learn rust sometime in the future
-
 🍾 I also:
   - Make & record music in FL Studio.
   - Design Furniture.
