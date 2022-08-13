@@ -16,15 +16,14 @@ Here are some ideas to get you started:
 -->
 
 I'm an engineer interested in super fast algorithms for python & JavaScript. I have experience in Front-end Web Development & Deep Learning Neural Networks.
+When I feel like gnashing my teeth I write code in C#, they never make it to a repo.
 
-😤 I’m currently working on Simple Utility tools with UI's for FL studio
-
-🌱 I’m currently learning RUST & ThreeJS
+🌱 I’m currently learning RUST.
 
 🍾 I also:
   - Make & record music in FL Studio.
   - Design Furniture.
-  - Study Mechanical engineering at Uni.
+  - Studied Mechanical engineering at Uni.
 
 ## Contact Me
 🔗 - https://twitter.com/tochibedford
