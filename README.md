@@ -36,9 +36,7 @@ Languages and Tools I use:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![Rust](https://img.shields.io/badge/-RUST-05122A?style=flat&logo=rust)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json)
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
 
 ## GitHub Stats
 
