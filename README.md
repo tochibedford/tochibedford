@@ -33,6 +33,7 @@ When I feel like gnashing my teeth I write code in C#, they never make it to a r
 Languages and Tools I use:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![Rust](https://img.shields.io/badge/-RUST-05122A?style=flat&logo=rust)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json)
