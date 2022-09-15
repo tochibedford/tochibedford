@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an engineer interested in super fast algorithms for python & JavaScript. I have experience in Front-end Web Development & Deep Learning Neural Networks.
+I'm an engineer interested in super fast algorithms for python, JavaScript & rust.
 When I feel like gnashing my teeth I write code in C#, they never make it to a repo.
 
-🌱 I’m currently learning RUST.
+🌱 I’m currently working a lot with RUST.
 
 🍾 I also:
   - Make & record music in FL Studio.
