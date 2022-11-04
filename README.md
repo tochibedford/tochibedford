@@ -46,4 +46,6 @@ Languages and Tools I use:
     
 </p>
 
+[![](https://visitcount.itsvg.in/api?id=tochibedford&label=Profile%20Views&color=0&icon=4&pretty=false)](https://visitcount.itsvg.in)
+
 
